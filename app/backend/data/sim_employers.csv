@@ -1,0 +1,501 @@
+employer_id,sektor,provinsi,ump_wilayah_rupiah,true_worker_count,true_avg_wage_rupiah,fraud_type,is_fraud
+EMP0001,Pertanian,Jawa Timur,2446881,143,2561000,none,False
+EMP0002,Teknologi,DKI Jakarta,5729876,52,9923000,none,False
+EMP0003,Jasa,Jawa Barat,2317601,52,2537000,none,False
+EMP0004,Jasa,Banten,3100881,101,4756000,none,False
+EMP0005,Manufaktur,Sumatra Utara,3228949,436,3891000,none,False
+EMP0006,Teknologi,Nusa Tenggara Timur,2455898,31,4867000,underreport_upah,True
+EMP0007,Retail,Jawa Timur,2446881,110,2121000,none,False
+EMP0008,Jasa,Bali,3207459,7,2414000,none,False
+EMP0009,Pertanian,Sulawesi Selatan,3921088,109,4202000,none,False
+EMP0010,Retail,Jawa Timur,2446881,92,2202000,none,False
+EMP0011,Konstruksi,Sumatra Utara,3228949,155,5115000,none,False
+EMP0012,Teknologi,Sumatra Utara,3228949,78,5089000,pduk,True
+EMP0013,Pertanian,Sumatra Utara,3228949,44,3152000,none,False
+EMP0014,Pertanian,Jawa Tengah,2327386,163,2311000,none,False
+EMP0015,Pertanian,DKI Jakarta,5729876,191,6036000,none,False
+EMP0016,Konstruksi,Nusa Tenggara Timur,2455898,58,3142000,none,False
+EMP0017,Teknologi,Jawa Tengah,2327386,96,3363000,none,False
+EMP0018,Konstruksi,Sumatra Utara,3228949,297,3428000,none,False
+EMP0019,Konstruksi,Kalimantan Timur,3762431,254,5234000,none,False
+EMP0020,Retail,Jawa Tengah,2327386,114,2504000,none,False
+EMP0021,Retail,Bali,3207459,138,3066000,none,False
+EMP0022,Manufaktur,Kalimantan Timur,3762431,455,4582000,none,False
+EMP0023,Konstruksi,Nusa Tenggara Timur,2455898,65,2437000,underreport_upah,True
+EMP0024,Jasa,Bali,3207459,119,2245000,pduk,True
+EMP0025,Manufaktur,Banten,3100881,149,3182000,none,False
+EMP0026,Jasa,Kalimantan Timur,3762431,129,4877000,none,False
+EMP0027,Retail,Sumatra Utara,3228949,120,3456000,none,False
+EMP0028,Pertanian,Kalimantan Timur,3762431,97,3975000,none,False
+EMP0029,Teknologi,Kalimantan Timur,3762431,93,7610000,none,False
+EMP0030,Teknologi,Sulawesi Selatan,3921088,78,10250000,none,False
+EMP0031,Retail,Bali,3207459,67,3126000,none,False
+EMP0032,Teknologi,Sumatra Utara,3228949,85,4205000,underreport_upah,True
+EMP0033,Konstruksi,Jawa Tengah,2327386,255,2146000,none,False
+EMP0034,Konstruksi,Sulawesi Selatan,3921088,125,4575000,none,False
+EMP0035,Konstruksi,DKI Jakarta,5729876,123,7334000,none,False
+EMP0036,Jasa,DKI Jakarta,5729876,42,7461000,none,False
+EMP0037,Konstruksi,Jawa Tengah,2327386,210,2648000,none,False
+EMP0038,Retail,DKI Jakarta,5729876,91,5977000,none,False
+EMP0039,Retail,Kalimantan Timur,3762431,29,4022000,none,False
+EMP0040,Pertanian,Sulawesi Selatan,3921088,245,4340000,none,False
+EMP0041,Teknologi,Banten,3100881,98,6032000,none,False
+EMP0042,Pertanian,Kalimantan Timur,3762431,182,3414000,none,False
+EMP0043,Konstruksi,Nusa Tenggara Timur,2455898,143,3052000,none,False
+EMP0044,Teknologi,Bali,3207459,74,4264000,none,False
+EMP0045,Konstruksi,DKI Jakarta,5729876,288,8149000,none,False
+EMP0046,Konstruksi,Nusa Tenggara Timur,2455898,295,2824000,none,False
+EMP0047,Pertanian,Jawa Tengah,2327386,242,2248000,none,False
+EMP0048,Pertanian,Jawa Barat,2317601,39,2080000,none,False
+EMP0049,Konstruksi,Banten,3100881,289,3915000,none,False
+EMP0050,Retail,Banten,3100881,72,2706000,none,False
+EMP0051,Jasa,DKI Jakarta,5729876,19,9926000,none,False
+EMP0052,Pertanian,Banten,3100881,143,2943000,none,False
+EMP0053,Jasa,Kalimantan Timur,3762431,91,5585000,none,False
+EMP0054,Pertanian,Nusa Tenggara Timur,2455898,99,2562000,none,False
+EMP0055,Retail,Banten,3100881,140,2814000,none,False
+EMP0056,Pertanian,Jawa Barat,2317601,195,2168000,none,False
+EMP0057,Pertanian,DKI Jakarta,5729876,104,5841000,none,False
+EMP0058,Pertanian,DKI Jakarta,5729876,66,6395000,none,False
+EMP0059,Jasa,Sulawesi Selatan,3921088,91,5610000,none,False
+EMP0060,Manufaktur,DKI Jakarta,5729876,345,6994000,none,False
+EMP0061,Pertanian,DKI Jakarta,5729876,177,6354000,none,False
+EMP0062,Teknologi,Kalimantan Timur,3762431,27,3141000,none,False
+EMP0063,Konstruksi,Jawa Barat,2317601,236,2362000,none,False
+EMP0064,Teknologi,Sumatra Utara,3228949,61,5411000,none,False
+EMP0065,Manufaktur,Sumatra Utara,3228949,283,3174000,none,False
+EMP0066,Teknologi,DKI Jakarta,5729876,13,11516000,none,False
+EMP0067,Retail,Banten,3100881,66,3892000,none,False
+EMP0068,Pertanian,Bali,3207459,81,3121000,none,False
+EMP0069,Konstruksi,Bali,3207459,44,2418000,none,False
+EMP0070,Konstruksi,Jawa Timur,2446881,123,2500000,none,False
+EMP0071,Jasa,Bali,3207459,72,5935000,none,False
+EMP0072,Manufaktur,Jawa Tengah,2327386,52,2882000,none,False
+EMP0073,Konstruksi,DKI Jakarta,5729876,97,6506000,none,False
+EMP0074,Retail,Kalimantan Timur,3762431,54,3829000,none,False
+EMP0075,Teknologi,Sulawesi Selatan,3921088,96,5643000,none,False
+EMP0076,Pertanian,Bali,3207459,78,3187000,none,False
+EMP0077,Retail,Jawa Barat,2317601,86,2545000,none,False
+EMP0078,Jasa,Jawa Barat,2317601,108,1622000,none,False
+EMP0079,Jasa,Banten,3100881,125,3522000,none,False
+EMP0080,Konstruksi,Sumatra Utara,3228949,79,4092000,none,False
+EMP0081,Jasa,Jawa Barat,2317601,72,3397000,none,False
+EMP0082,Teknologi,Nusa Tenggara Timur,2455898,58,4801000,none,False
+EMP0083,Konstruksi,Jawa Timur,2446881,194,2997000,none,False
+EMP0084,Retail,Kalimantan Timur,3762431,149,3754000,none,False
+EMP0085,Jasa,Sulawesi Selatan,3921088,135,4781000,none,False
+EMP0086,Teknologi,DKI Jakarta,5729876,22,12126000,none,False
+EMP0087,Jasa,Sulawesi Selatan,3921088,88,4794000,none,False
+EMP0088,Konstruksi,DKI Jakarta,5729876,158,6021000,none,False
+EMP0089,Manufaktur,Jawa Tengah,2327386,470,2388000,none,False
+EMP0090,Teknologi,Nusa Tenggara Timur,2455898,8,2141000,none,False
+EMP0091,Konstruksi,Banten,3100881,295,3286000,none,False
+EMP0092,Retail,Sumatra Utara,3228949,50,3311000,none,False
+EMP0093,Teknologi,Jawa Barat,2317601,65,5144000,none,False
+EMP0094,Retail,Sulawesi Selatan,3921088,106,3760000,none,False
+EMP0095,Teknologi,Nusa Tenggara Timur,2455898,51,5057000,none,False
+EMP0096,Retail,Jawa Timur,2446881,5,2741000,none,False
+EMP0097,Retail,Sulawesi Selatan,3921088,28,4035000,none,False
+EMP0098,Manufaktur,Bali,3207459,254,2936000,none,False
+EMP0099,Retail,Jawa Timur,2446881,84,2319000,none,False
+EMP0100,Pertanian,Nusa Tenggara Timur,2455898,72,2678000,underreport_upah,True
+EMP0101,Konstruksi,Sulawesi Selatan,3921088,275,3589000,pduk,True
+EMP0102,Retail,Nusa Tenggara Timur,2455898,38,2648000,none,False
+EMP0103,Jasa,DKI Jakarta,5729876,99,5811000,none,False
+EMP0104,Manufaktur,Jawa Timur,2446881,361,2835000,underreport_upah,True
+EMP0105,Konstruksi,Sulawesi Selatan,3921088,102,4531000,none,False
+EMP0106,Manufaktur,Jawa Timur,2446881,24,3099000,none,False
+EMP0107,Pertanian,Jawa Tengah,2327386,46,1909000,none,False
+EMP0108,Manufaktur,Banten,3100881,135,4118000,none,False
+EMP0109,Jasa,Sumatra Utara,3228949,139,4455000,none,False
+EMP0110,Teknologi,Jawa Barat,2317601,86,5838000,pduk,True
+EMP0111,Retail,Jawa Timur,2446881,135,2351000,none,False
+EMP0112,Pertanian,Banten,3100881,71,3027000,none,False
+EMP0113,Konstruksi,Jawa Barat,2317601,290,3377000,none,False
+EMP0114,Konstruksi,Jawa Barat,2317601,114,2123000,none,False
+EMP0115,Manufaktur,Banten,3100881,283,3772000,none,False
+EMP0116,Pertanian,DKI Jakarta,5729876,61,6021000,none,False
+EMP0117,Konstruksi,DKI Jakarta,5729876,248,6693000,none,False
+EMP0118,Manufaktur,Sumatra Utara,3228949,186,3754000,none,False
+EMP0119,Pertanian,Sumatra Utara,3228949,168,3663000,none,False
+EMP0120,Pertanian,Sulawesi Selatan,3921088,187,4347000,none,False
+EMP0121,Manufaktur,Sumatra Utara,3228949,91,3719000,none,False
+EMP0122,Konstruksi,Sumatra Utara,3228949,51,2846000,none,False
+EMP0123,Manufaktur,Sulawesi Selatan,3921088,401,3743000,none,False
+EMP0124,Konstruksi,Bali,3207459,11,3477000,none,False
+EMP0125,Konstruksi,Sumatra Utara,3228949,177,3559000,none,False
+EMP0126,Konstruksi,Sulawesi Selatan,3921088,270,4348000,none,False
+EMP0127,Retail,Sumatra Utara,3228949,28,3342000,none,False
+EMP0128,Konstruksi,Banten,3100881,24,2636000,none,False
+EMP0129,Manufaktur,Banten,3100881,184,2735000,none,False
+EMP0130,Konstruksi,DKI Jakarta,5729876,15,7444000,none,False
+EMP0131,Manufaktur,DKI Jakarta,5729876,426,6623000,none,False
+EMP0132,Teknologi,Jawa Timur,2446881,63,3344000,pduk,True
+EMP0133,Konstruksi,Jawa Barat,2317601,227,3146000,none,False
+EMP0134,Pertanian,Bali,3207459,146,3174000,none,False
+EMP0135,Pertanian,DKI Jakarta,5729876,45,5829000,none,False
+EMP0136,Retail,Bali,3207459,6,3182000,none,False
+EMP0137,Retail,Nusa Tenggara Timur,2455898,67,2424000,underreport_upah,True
+EMP0138,Retail,Jawa Tengah,2327386,134,2350000,none,False
+EMP0139,Manufaktur,Jawa Tengah,2327386,245,2279000,none,False
+EMP0140,Manufaktur,Sumatra Utara,3228949,105,4410000,none,False
+EMP0141,Teknologi,Nusa Tenggara Timur,2455898,98,3279000,none,False
+EMP0142,Teknologi,DKI Jakarta,5729876,49,6047000,none,False
+EMP0143,Konstruksi,DKI Jakarta,5729876,197,6168000,underreport_upah,True
+EMP0144,Retail,DKI Jakarta,5729876,112,4485000,none,False
+EMP0145,Konstruksi,Kalimantan Timur,3762431,285,3290000,none,False
+EMP0146,Konstruksi,DKI Jakarta,5729876,272,5440000,none,False
+EMP0147,Teknologi,DKI Jakarta,5729876,52,13586000,none,False
+EMP0148,Manufaktur,DKI Jakarta,5729876,376,6301000,none,False
+EMP0149,Jasa,Jawa Tengah,2327386,197,4366000,none,False
+EMP0150,Retail,Bali,3207459,133,3410000,none,False
+EMP0151,Konstruksi,Nusa Tenggara Timur,2455898,110,3120000,none,False
+EMP0152,Konstruksi,Bali,3207459,128,4150000,pduk,True
+EMP0153,Konstruksi,Jawa Timur,2446881,156,3136000,none,False
+EMP0154,Retail,DKI Jakarta,5729876,59,6176000,none,False
+EMP0155,Pertanian,Nusa Tenggara Timur,2455898,89,2539000,none,False
+EMP0156,Manufaktur,Nusa Tenggara Timur,2455898,182,3070000,none,False
+EMP0157,Pertanian,DKI Jakarta,5729876,57,5703000,none,False
+EMP0158,Manufaktur,Bali,3207459,442,3355000,none,False
+EMP0159,Retail,Kalimantan Timur,3762431,146,3797000,none,False
+EMP0160,Jasa,Kalimantan Timur,3762431,96,5027000,none,False
+EMP0161,Manufaktur,Sulawesi Selatan,3921088,24,4935000,none,False
+EMP0162,Retail,Jawa Barat,2317601,99,1995000,pduk,True
+EMP0163,Teknologi,Kalimantan Timur,3762431,27,6440000,none,False
+EMP0164,Jasa,Jawa Timur,2446881,154,3283000,none,False
+EMP0165,Pertanian,DKI Jakarta,5729876,35,5221000,none,False
+EMP0166,Teknologi,DKI Jakarta,5729876,95,7808000,none,False
+EMP0167,Retail,Bali,3207459,141,3229000,none,False
+EMP0168,Jasa,DKI Jakarta,5729876,23,4806000,none,False
+EMP0169,Pertanian,Sulawesi Selatan,3921088,106,3793000,none,False
+EMP0170,Konstruksi,Nusa Tenggara Timur,2455898,83,2548000,underreport_upah,True
+EMP0171,Manufaktur,Bali,3207459,199,3274000,none,False
+EMP0172,Konstruksi,Nusa Tenggara Timur,2455898,95,1947000,none,False
+EMP0173,Teknologi,Kalimantan Timur,3762431,15,6550000,none,False
+EMP0174,Pertanian,Sulawesi Selatan,3921088,59,3726000,underreport_upah,True
+EMP0175,Retail,Sulawesi Selatan,3921088,38,3616000,none,False
+EMP0176,Teknologi,DKI Jakarta,5729876,30,7847000,none,False
+EMP0177,Konstruksi,Jawa Tengah,2327386,198,2819000,none,False
+EMP0178,Retail,Banten,3100881,40,3562000,gelap_iuran,True
+EMP0179,Manufaktur,Bali,3207459,295,3225000,pduk,True
+EMP0180,Teknologi,Jawa Tengah,2327386,55,5459000,none,False
+EMP0181,Jasa,Kalimantan Timur,3762431,62,4101000,pduk,True
+EMP0182,Manufaktur,DKI Jakarta,5729876,446,6098000,pduk,True
+EMP0183,Jasa,Jawa Barat,2317601,60,3011000,none,False
+EMP0184,Retail,Banten,3100881,82,3184000,none,False
+EMP0185,Retail,Banten,3100881,57,3395000,none,False
+EMP0186,Manufaktur,Nusa Tenggara Timur,2455898,251,3431000,none,False
+EMP0187,Manufaktur,Nusa Tenggara Timur,2455898,198,2400000,none,False
+EMP0188,Konstruksi,Sulawesi Selatan,3921088,83,5051000,none,False
+EMP0189,Retail,Banten,3100881,27,3531000,none,False
+EMP0190,Teknologi,Jawa Tengah,2327386,62,5307000,none,False
+EMP0191,Teknologi,Jawa Tengah,2327386,55,4502000,underreport_upah,True
+EMP0192,Konstruksi,Kalimantan Timur,3762431,296,4427000,none,False
+EMP0193,Pertanian,Jawa Timur,2446881,99,2535000,none,False
+EMP0194,Retail,Nusa Tenggara Timur,2455898,138,2293000,none,False
+EMP0195,Konstruksi,Jawa Barat,2317601,280,2325000,none,False
+EMP0196,Retail,Nusa Tenggara Timur,2455898,95,2578000,none,False
+EMP0197,Konstruksi,Sulawesi Selatan,3921088,249,4416000,none,False
+EMP0198,Jasa,Kalimantan Timur,3762431,90,4955000,none,False
+EMP0199,Pertanian,Bali,3207459,142,3142000,none,False
+EMP0200,Teknologi,Nusa Tenggara Timur,2455898,10,5329000,none,False
+EMP0201,Pertanian,Jawa Barat,2317601,114,2298000,none,False
+EMP0202,Manufaktur,Kalimantan Timur,3762431,208,4675000,underreport_upah,True
+EMP0203,Konstruksi,Banten,3100881,130,4096000,none,False
+EMP0204,Pertanian,Nusa Tenggara Timur,2455898,168,2178000,none,False
+EMP0205,Manufaktur,DKI Jakarta,5729876,314,5274000,none,False
+EMP0206,Teknologi,Jawa Barat,2317601,21,4854000,none,False
+EMP0207,Teknologi,DKI Jakarta,5729876,60,7095000,none,False
+EMP0208,Manufaktur,Jawa Barat,2317601,448,2560000,none,False
+EMP0209,Pertanian,Nusa Tenggara Timur,2455898,51,2747000,none,False
+EMP0210,Jasa,Sumatra Utara,3228949,76,5633000,none,False
+EMP0211,Retail,Kalimantan Timur,3762431,134,4239000,none,False
+EMP0212,Konstruksi,Sulawesi Selatan,3921088,157,4416000,none,False
+EMP0213,Jasa,Bali,3207459,41,3628000,none,False
+EMP0214,Konstruksi,Jawa Timur,2446881,128,3002000,none,False
+EMP0215,Jasa,Jawa Tengah,2327386,166,3610000,none,False
+EMP0216,Manufaktur,Jawa Timur,2446881,334,3091000,none,False
+EMP0217,Jasa,Kalimantan Timur,3762431,178,6707000,none,False
+EMP0218,Jasa,Jawa Tengah,2327386,156,1986000,none,False
+EMP0219,Pertanian,Sulawesi Selatan,3921088,229,3937000,pduk,True
+EMP0220,Pertanian,Nusa Tenggara Timur,2455898,76,2390000,none,False
+EMP0221,Jasa,Sumatra Utara,3228949,59,4665000,none,False
+EMP0222,Pertanian,DKI Jakarta,5729876,58,6012000,none,False
+EMP0223,Konstruksi,Bali,3207459,233,2245000,none,False
+EMP0224,Teknologi,Banten,3100881,29,5576000,underreport_upah,True
+EMP0225,Manufaktur,Nusa Tenggara Timur,2455898,364,2899000,none,False
+EMP0226,Teknologi,Sumatra Utara,3228949,70,6439000,pduk,True
+EMP0227,Konstruksi,Kalimantan Timur,3762431,213,4881000,none,False
+EMP0228,Teknologi,Sulawesi Selatan,3921088,47,8322000,none,False
+EMP0229,Teknologi,Sulawesi Selatan,3921088,36,8585000,none,False
+EMP0230,Jasa,Kalimantan Timur,3762431,100,5194000,none,False
+EMP0231,Pertanian,Sulawesi Selatan,3921088,204,3752000,none,False
+EMP0232,Jasa,Jawa Timur,2446881,185,2602000,none,False
+EMP0233,Teknologi,Jawa Tengah,2327386,6,3999000,underreport_upah,True
+EMP0234,Pertanian,Kalimantan Timur,3762431,193,4498000,none,False
+EMP0235,Konstruksi,Jawa Tengah,2327386,212,2630000,underreport_upah,True
+EMP0236,Jasa,Banten,3100881,61,4296000,none,False
+EMP0237,Retail,Nusa Tenggara Timur,2455898,57,2936000,none,False
+EMP0238,Retail,Banten,3100881,123,3607000,none,False
+EMP0239,Konstruksi,Jawa Timur,2446881,116,2167000,none,False
+EMP0240,Manufaktur,Jawa Tengah,2327386,402,3181000,none,False
+EMP0241,Jasa,Bali,3207459,141,3258000,none,False
+EMP0242,Pertanian,Banten,3100881,103,2706000,none,False
+EMP0243,Jasa,Nusa Tenggara Timur,2455898,189,4287000,none,False
+EMP0244,Manufaktur,Nusa Tenggara Timur,2455898,317,2608000,none,False
+EMP0245,Jasa,Jawa Timur,2446881,128,3192000,none,False
+EMP0246,Manufaktur,Kalimantan Timur,3762431,399,4362000,none,False
+EMP0247,Retail,Jawa Barat,2317601,37,2109000,none,False
+EMP0248,Konstruksi,Jawa Tengah,2327386,251,2864000,none,False
+EMP0249,Manufaktur,Sumatra Utara,3228949,263,3717000,none,False
+EMP0250,Konstruksi,Sumatra Utara,3228949,208,3668000,none,False
+EMP0251,Manufaktur,Jawa Tengah,2327386,31,2653000,none,False
+EMP0252,Teknologi,Jawa Tengah,2327386,14,4650000,none,False
+EMP0253,Manufaktur,Jawa Tengah,2327386,173,3071000,none,False
+EMP0254,Jasa,DKI Jakarta,5729876,87,8764000,none,False
+EMP0255,Retail,Jawa Barat,2317601,115,2596000,none,False
+EMP0256,Retail,Nusa Tenggara Timur,2455898,125,2384000,none,False
+EMP0257,Teknologi,DKI Jakarta,5729876,42,13723000,none,False
+EMP0258,Jasa,Sumatra Utara,3228949,161,3243000,none,False
+EMP0259,Jasa,Sumatra Utara,3228949,57,4436000,none,False
+EMP0260,Manufaktur,Nusa Tenggara Timur,2455898,66,2691000,none,False
+EMP0261,Jasa,Jawa Tengah,2327386,59,3456000,none,False
+EMP0262,Manufaktur,Kalimantan Timur,3762431,20,3904000,none,False
+EMP0263,Teknologi,Jawa Barat,2317601,14,3921000,none,False
+EMP0264,Manufaktur,Jawa Barat,2317601,415,2631000,none,False
+EMP0265,Manufaktur,Kalimantan Timur,3762431,51,3822000,pduk,True
+EMP0266,Teknologi,Sulawesi Selatan,3921088,56,5982000,none,False
+EMP0267,Manufaktur,Jawa Tengah,2327386,223,3126000,none,False
+EMP0268,Retail,Jawa Timur,2446881,42,2578000,none,False
+EMP0269,Jasa,Jawa Barat,2317601,110,4324000,none,False
+EMP0270,Pertanian,Banten,3100881,98,2604000,none,False
+EMP0271,Konstruksi,Kalimantan Timur,3762431,198,4658000,none,False
+EMP0272,Pertanian,Sumatra Utara,3228949,30,3130000,none,False
+EMP0273,Manufaktur,Jawa Tengah,2327386,41,2741000,none,False
+EMP0274,Pertanian,Nusa Tenggara Timur,2455898,247,2509000,none,False
+EMP0275,Teknologi,Nusa Tenggara Timur,2455898,22,4529000,none,False
+EMP0276,Retail,Jawa Tengah,2327386,131,2787000,none,False
+EMP0277,Teknologi,Bali,3207459,48,4250000,none,False
+EMP0278,Jasa,Nusa Tenggara Timur,2455898,132,3128000,none,False
+EMP0279,Jasa,Bali,3207459,6,3502000,none,False
+EMP0280,Konstruksi,Nusa Tenggara Timur,2455898,250,3586000,none,False
+EMP0281,Retail,Bali,3207459,81,2999000,none,False
+EMP0282,Manufaktur,DKI Jakarta,5729876,253,6489000,none,False
+EMP0283,Jasa,Sumatra Utara,3228949,55,2809000,none,False
+EMP0284,Pertanian,Nusa Tenggara Timur,2455898,144,2485000,none,False
+EMP0285,Pertanian,Nusa Tenggara Timur,2455898,41,2196000,none,False
+EMP0286,Konstruksi,Nusa Tenggara Timur,2455898,173,2308000,none,False
+EMP0287,Teknologi,Sumatra Utara,3228949,39,4034000,none,False
+EMP0288,Manufaktur,Jawa Timur,2446881,449,2948000,none,False
+EMP0289,Pertanian,Banten,3100881,211,3481000,none,False
+EMP0290,Teknologi,DKI Jakarta,5729876,50,9726000,none,False
+EMP0291,Retail,Jawa Barat,2317601,54,2888000,none,False
+EMP0292,Jasa,Sulawesi Selatan,3921088,43,4204000,none,False
+EMP0293,Manufaktur,Jawa Tengah,2327386,448,2215000,pduk,True
+EMP0294,Manufaktur,Sumatra Utara,3228949,222,3917000,none,False
+EMP0295,Manufaktur,DKI Jakarta,5729876,332,6010000,none,False
+EMP0296,Teknologi,Jawa Tengah,2327386,39,3371000,pduk,True
+EMP0297,Konstruksi,Bali,3207459,109,4097000,underreport_upah,True
+EMP0298,Jasa,Banten,3100881,45,4013000,none,False
+EMP0299,Manufaktur,Jawa Tengah,2327386,355,2195000,none,False
+EMP0300,Manufaktur,Nusa Tenggara Timur,2455898,75,1995000,none,False
+EMP0301,Retail,Bali,3207459,33,3354000,none,False
+EMP0302,Teknologi,Kalimantan Timur,3762431,82,7391000,none,False
+EMP0303,Manufaktur,DKI Jakarta,5729876,232,7040000,none,False
+EMP0304,Manufaktur,Banten,3100881,175,3298000,none,False
+EMP0305,Manufaktur,Jawa Timur,2446881,459,2612000,none,False
+EMP0306,Pertanian,Jawa Tengah,2327386,244,2107000,none,False
+EMP0307,Konstruksi,Sumatra Utara,3228949,94,3608000,none,False
+EMP0308,Teknologi,Jawa Timur,2446881,42,3629000,none,False
+EMP0309,Retail,Nusa Tenggara Timur,2455898,99,2731000,none,False
+EMP0310,Jasa,Sumatra Utara,3228949,25,5596000,none,False
+EMP0311,Manufaktur,DKI Jakarta,5729876,297,6133000,none,False
+EMP0312,Retail,Bali,3207459,67,3390000,none,False
+EMP0313,Retail,Jawa Timur,2446881,121,2527000,none,False
+EMP0314,Teknologi,Sumatra Utara,3228949,36,7061000,none,False
+EMP0315,Teknologi,DKI Jakarta,5729876,41,11006000,none,False
+EMP0316,Retail,Sumatra Utara,3228949,85,3187000,none,False
+EMP0317,Teknologi,Sumatra Utara,3228949,11,8059000,none,False
+EMP0318,Retail,Nusa Tenggara Timur,2455898,29,2824000,none,False
+EMP0319,Teknologi,Jawa Barat,2317601,87,3757000,none,False
+EMP0320,Jasa,Nusa Tenggara Timur,2455898,152,3230000,underreport_upah,True
+EMP0321,Konstruksi,Bali,3207459,291,3945000,pduk,True
+EMP0322,Teknologi,Banten,3100881,68,7488000,none,False
+EMP0323,Konstruksi,Bali,3207459,255,3768000,none,False
+EMP0324,Retail,Jawa Timur,2446881,88,2575000,none,False
+EMP0325,Konstruksi,Jawa Tengah,2327386,281,2729000,none,False
+EMP0326,Pertanian,Jawa Tengah,2327386,16,2550000,none,False
+EMP0327,Manufaktur,Kalimantan Timur,3762431,134,4776000,none,False
+EMP0328,Retail,Bali,3207459,5,3448000,none,False
+EMP0329,Teknologi,Jawa Barat,2317601,88,6029000,none,False
+EMP0330,Teknologi,Sulawesi Selatan,3921088,58,7324000,none,False
+EMP0331,Pertanian,Bali,3207459,114,2661000,none,False
+EMP0332,Pertanian,Bali,3207459,138,3424000,none,False
+EMP0333,Manufaktur,DKI Jakarta,5729876,400,5595000,none,False
+EMP0334,Teknologi,Sumatra Utara,3228949,61,5881000,none,False
+EMP0335,Konstruksi,Nusa Tenggara Timur,2455898,44,3003000,none,False
+EMP0336,Manufaktur,Nusa Tenggara Timur,2455898,251,2732000,none,False
+EMP0337,Konstruksi,Banten,3100881,221,4176000,none,False
+EMP0338,Konstruksi,Banten,3100881,117,3195000,none,False
+EMP0339,Manufaktur,DKI Jakarta,5729876,442,6009000,none,False
+EMP0340,Pertanian,DKI Jakarta,5729876,78,5989000,underreport_upah,True
+EMP0341,Pertanian,Sulawesi Selatan,3921088,25,4039000,none,False
+EMP0342,Manufaktur,Jawa Tengah,2327386,242,3092000,underreport_upah,True
+EMP0343,Konstruksi,Bali,3207459,191,3514000,none,False
+EMP0344,Pertanian,Jawa Timur,2446881,158,2492000,none,False
+EMP0345,Konstruksi,Jawa Tengah,2327386,288,1821000,none,False
+EMP0346,Konstruksi,Bali,3207459,50,4004000,none,False
+EMP0347,Retail,Jawa Timur,2446881,31,2784000,underreport_upah,True
+EMP0348,Manufaktur,Jawa Timur,2446881,214,2965000,none,False
+EMP0349,Retail,Jawa Timur,2446881,40,2730000,none,False
+EMP0350,Manufaktur,Banten,3100881,438,3467000,none,False
+EMP0351,Retail,Nusa Tenggara Timur,2455898,24,2687000,none,False
+EMP0352,Retail,Banten,3100881,82,2936000,none,False
+EMP0353,Retail,Bali,3207459,100,3133000,none,False
+EMP0354,Manufaktur,Banten,3100881,164,3515000,none,False
+EMP0355,Retail,Jawa Barat,2317601,50,2134000,none,False
+EMP0356,Teknologi,Jawa Timur,2446881,16,5111000,none,False
+EMP0357,Manufaktur,Bali,3207459,469,3508000,none,False
+EMP0358,Manufaktur,Sulawesi Selatan,3921088,459,4268000,none,False
+EMP0359,Pertanian,Jawa Barat,2317601,200,2487000,none,False
+EMP0360,Retail,Sulawesi Selatan,3921088,145,4455000,none,False
+EMP0361,Pertanian,Sumatra Utara,3228949,133,2938000,underreport_upah,True
+EMP0362,Jasa,Jawa Timur,2446881,23,4218000,none,False
+EMP0363,Manufaktur,Jawa Tengah,2327386,279,2966000,none,False
+EMP0364,Pertanian,Nusa Tenggara Timur,2455898,212,2141000,none,False
+EMP0365,Konstruksi,Sumatra Utara,3228949,277,3911000,none,False
+EMP0366,Pertanian,Nusa Tenggara Timur,2455898,140,2513000,none,False
+EMP0367,Jasa,Banten,3100881,90,2171000,none,False
+EMP0368,Pertanian,Nusa Tenggara Timur,2455898,119,2424000,none,False
+EMP0369,Jasa,Banten,3100881,43,5348000,none,False
+EMP0370,Retail,Jawa Barat,2317601,16,2511000,pduk,True
+EMP0371,Pertanian,Nusa Tenggara Timur,2455898,56,2746000,none,False
+EMP0372,Teknologi,Jawa Barat,2317601,8,4600000,none,False
+EMP0373,Teknologi,Sumatra Utara,3228949,31,6590000,none,False
+EMP0374,Teknologi,Bali,3207459,53,6512000,none,False
+EMP0375,Teknologi,Sulawesi Selatan,3921088,8,6550000,none,False
+EMP0376,Jasa,Bali,3207459,34,3857000,none,False
+EMP0377,Manufaktur,DKI Jakarta,5729876,91,6809000,underreport_upah,True
+EMP0378,Konstruksi,Jawa Barat,2317601,165,2545000,none,False
+EMP0379,Pertanian,Jawa Tengah,2327386,131,2743000,none,False
+EMP0380,Pertanian,Jawa Timur,2446881,217,2694000,none,False
+EMP0381,Manufaktur,Kalimantan Timur,3762431,73,5585000,none,False
+EMP0382,Manufaktur,Jawa Barat,2317601,230,3003000,underreport_upah,True
+EMP0383,Teknologi,Jawa Barat,2317601,35,3978000,none,False
+EMP0384,Pertanian,Kalimantan Timur,3762431,53,4184000,none,False
+EMP0385,Jasa,Bali,3207459,38,5123000,none,False
+EMP0386,Pertanian,Jawa Timur,2446881,64,2575000,gelap_iuran,True
+EMP0387,Teknologi,Jawa Barat,2317601,72,3310000,none,False
+EMP0388,Teknologi,Jawa Timur,2446881,15,2804000,underreport_upah,True
+EMP0389,Konstruksi,Jawa Tengah,2327386,19,2355000,none,False
+EMP0390,Konstruksi,Jawa Tengah,2327386,298,1980000,none,False
+EMP0391,Konstruksi,Jawa Tengah,2327386,277,2728000,none,False
+EMP0392,Retail,Sulawesi Selatan,3921088,90,4681000,none,False
+EMP0393,Pertanian,Banten,3100881,156,3678000,none,False
+EMP0394,Manufaktur,Jawa Barat,2317601,245,2559000,none,False
+EMP0395,Jasa,Kalimantan Timur,3762431,144,5655000,none,False
+EMP0396,Manufaktur,Jawa Timur,2446881,331,2669000,none,False
+EMP0397,Teknologi,DKI Jakarta,5729876,48,15584000,none,False
+EMP0398,Konstruksi,Jawa Tengah,2327386,193,3391000,none,False
+EMP0399,Retail,DKI Jakarta,5729876,117,5601000,none,False
+EMP0400,Pertanian,Sulawesi Selatan,3921088,99,4065000,none,False
+EMP0401,Konstruksi,Nusa Tenggara Timur,2455898,117,2070000,none,False
+EMP0402,Konstruksi,Sumatra Utara,3228949,143,2630000,pduk,True
+EMP0403,Konstruksi,Banten,3100881,111,4109000,none,False
+EMP0404,Manufaktur,Jawa Tengah,2327386,320,1887000,none,False
+EMP0405,Jasa,Jawa Timur,2446881,147,4842000,gelap_iuran,True
+EMP0406,Jasa,Sulawesi Selatan,3921088,191,4834000,none,False
+EMP0407,Jasa,Sulawesi Selatan,3921088,82,5956000,none,False
+EMP0408,Jasa,Jawa Barat,2317601,177,3358000,none,False
+EMP0409,Jasa,Jawa Timur,2446881,168,3948000,none,False
+EMP0410,Jasa,DKI Jakarta,5729876,98,8300000,gelap_iuran,True
+EMP0411,Retail,Banten,3100881,41,3249000,none,False
+EMP0412,Jasa,Jawa Timur,2446881,112,2517000,none,False
+EMP0413,Manufaktur,Banten,3100881,222,3716000,none,False
+EMP0414,Retail,Jawa Barat,2317601,113,2598000,pduk,True
+EMP0415,Jasa,Jawa Tengah,2327386,90,2706000,none,False
+EMP0416,Pertanian,Jawa Barat,2317601,96,2379000,none,False
+EMP0417,Jasa,Jawa Timur,2446881,71,1756000,none,False
+EMP0418,Retail,Jawa Tengah,2327386,114,2909000,none,False
+EMP0419,Jasa,Sulawesi Selatan,3921088,76,5938000,none,False
+EMP0420,Manufaktur,Kalimantan Timur,3762431,165,3199000,pduk,True
+EMP0421,Teknologi,Sulawesi Selatan,3921088,56,5937000,none,False
+EMP0422,Pertanian,Sumatra Utara,3228949,129,3148000,none,False
+EMP0423,Manufaktur,Banten,3100881,319,2287000,none,False
+EMP0424,Teknologi,Jawa Barat,2317601,89,3997000,none,False
+EMP0425,Konstruksi,Kalimantan Timur,3762431,114,5041000,none,False
+EMP0426,Retail,Kalimantan Timur,3762431,7,3147000,none,False
+EMP0427,Retail,Bali,3207459,76,3467000,none,False
+EMP0428,Retail,Nusa Tenggara Timur,2455898,85,2293000,none,False
+EMP0429,Teknologi,Jawa Timur,2446881,72,5138000,none,False
+EMP0430,Jasa,Sulawesi Selatan,3921088,170,4199000,none,False
+EMP0431,Pertanian,Kalimantan Timur,3762431,38,4015000,pduk,True
+EMP0432,Teknologi,Sulawesi Selatan,3921088,43,6893000,none,False
+EMP0433,Pertanian,DKI Jakarta,5729876,160,4914000,none,False
+EMP0434,Teknologi,Jawa Barat,2317601,57,4683000,none,False
+EMP0435,Jasa,Sulawesi Selatan,3921088,48,4441000,none,False
+EMP0436,Jasa,Banten,3100881,190,3846000,none,False
+EMP0437,Manufaktur,Jawa Timur,2446881,21,2546000,none,False
+EMP0438,Pertanian,Nusa Tenggara Timur,2455898,52,2615000,none,False
+EMP0439,Teknologi,Jawa Barat,2317601,92,4301000,none,False
+EMP0440,Teknologi,Jawa Barat,2317601,69,3109000,none,False
+EMP0441,Retail,DKI Jakarta,5729876,144,5350000,none,False
+EMP0442,Jasa,Nusa Tenggara Timur,2455898,56,3853000,none,False
+EMP0443,Teknologi,Jawa Tengah,2327386,71,3985000,none,False
+EMP0444,Jasa,Nusa Tenggara Timur,2455898,155,3306000,none,False
+EMP0445,Pertanian,Sumatra Utara,3228949,211,3237000,none,False
+EMP0446,Jasa,Jawa Barat,2317601,116,1622000,none,False
+EMP0447,Teknologi,Banten,3100881,24,5392000,gelap_iuran,True
+EMP0448,Jasa,Jawa Timur,2446881,162,2787000,none,False
+EMP0449,Manufaktur,DKI Jakarta,5729876,182,4574000,none,False
+EMP0450,Pertanian,Jawa Tengah,2327386,55,2144000,none,False
+EMP0451,Konstruksi,Jawa Timur,2446881,136,2002000,none,False
+EMP0452,Retail,Jawa Barat,2317601,98,2264000,pduk,True
+EMP0453,Manufaktur,DKI Jakarta,5729876,99,6865000,none,False
+EMP0454,Retail,Kalimantan Timur,3762431,138,4544000,none,False
+EMP0455,Teknologi,Banten,3100881,13,6987000,none,False
+EMP0456,Pertanian,Jawa Tengah,2327386,122,2063000,none,False
+EMP0457,Jasa,Jawa Barat,2317601,83,3482000,gelap_iuran,True
+EMP0458,Retail,Bali,3207459,120,3298000,none,False
+EMP0459,Konstruksi,Sumatra Utara,3228949,194,3389000,none,False
+EMP0460,Jasa,Sumatra Utara,3228949,54,4435000,none,False
+EMP0461,Manufaktur,Nusa Tenggara Timur,2455898,266,3898000,none,False
+EMP0462,Retail,Sulawesi Selatan,3921088,127,4244000,none,False
+EMP0463,Jasa,Jawa Timur,2446881,21,3337000,underreport_upah,True
+EMP0464,Manufaktur,Kalimantan Timur,3762431,395,4990000,none,False
+EMP0465,Retail,Sumatra Utara,3228949,94,2633000,none,False
+EMP0466,Teknologi,Jawa Tengah,2327386,26,4538000,none,False
+EMP0467,Teknologi,Kalimantan Timur,3762431,56,5522000,none,False
+EMP0468,Jasa,Bali,3207459,153,4314000,underreport_upah,True
+EMP0469,Manufaktur,Bali,3207459,96,2839000,none,False
+EMP0470,Teknologi,Bali,3207459,46,5784000,none,False
+EMP0471,Jasa,Sumatra Utara,3228949,196,4846000,none,False
+EMP0472,Pertanian,Jawa Barat,2317601,189,2232000,none,False
+EMP0473,Retail,DKI Jakarta,5729876,148,6047000,none,False
+EMP0474,Jasa,Jawa Tengah,2327386,103,3959000,none,False
+EMP0475,Teknologi,Banten,3100881,84,4953000,none,False
+EMP0476,Pertanian,Sumatra Utara,3228949,69,3367000,none,False
+EMP0477,Jasa,Jawa Tengah,2327386,54,2048000,none,False
+EMP0478,Konstruksi,Sumatra Utara,3228949,240,2415000,none,False
+EMP0479,Manufaktur,Jawa Tengah,2327386,410,3510000,none,False
+EMP0480,Teknologi,Nusa Tenggara Timur,2455898,38,4320000,none,False
+EMP0481,Konstruksi,Jawa Barat,2317601,30,2227000,none,False
+EMP0482,Teknologi,Jawa Timur,2446881,44,4406000,none,False
+EMP0483,Manufaktur,Banten,3100881,267,3524000,none,False
+EMP0484,Pertanian,Nusa Tenggara Timur,2455898,245,2482000,none,False
+EMP0485,Pertanian,Jawa Tengah,2327386,69,2027000,none,False
+EMP0486,Pertanian,Jawa Timur,2446881,155,2518000,none,False
+EMP0487,Teknologi,Jawa Timur,2446881,95,2936000,none,False
+EMP0488,Manufaktur,Nusa Tenggara Timur,2455898,361,2626000,none,False
+EMP0489,Konstruksi,DKI Jakarta,5729876,147,7037000,none,False
+EMP0490,Manufaktur,Sulawesi Selatan,3921088,435,4655000,none,False
+EMP0491,Teknologi,Banten,3100881,44,4918000,none,False
+EMP0492,Teknologi,Jawa Timur,2446881,76,4252000,none,False
+EMP0493,Konstruksi,Jawa Tengah,2327386,74,2643000,none,False
+EMP0494,Pertanian,Sumatra Utara,3228949,61,3335000,none,False
+EMP0495,Retail,Jawa Tengah,2327386,120,2039000,none,False
+EMP0496,Jasa,DKI Jakarta,5729876,10,5796000,none,False
+EMP0497,Retail,Jawa Tengah,2327386,20,1903000,none,False
+EMP0498,Konstruksi,Nusa Tenggara Timur,2455898,164,3636000,none,False
+EMP0499,Manufaktur,Kalimantan Timur,3762431,49,4905000,none,False
+EMP0500,Konstruksi,Bali,3207459,267,3156000,none,False
